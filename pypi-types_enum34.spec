@@ -4,7 +4,7 @@
 #
 Name     : pypi-types_enum34
 Version  : 1.1.1
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/10/bc/ae402dd78bd2ef6d7d736901079830e527a703eb4064e3dbef1a08910aab/types-enum34-1.1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/10/bc/ae402dd78bd2ef6d7d736901079830e527a703eb4064e3dbef1a08910aab/types-enum34-1.1.1.tar.gz
 Summary  : Typing stubs for enum34
@@ -45,7 +45,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1639052136
+export SOURCE_DATE_EPOCH=1639052720
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
